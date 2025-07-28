@@ -1,0 +1,11 @@
+{
+    "name":"sona",
+    "email":"sona123@gmail.com",
+    "password":"Sona@123",
+    "skill":["Python","Cypress","Nowa kategoria2"],
+    "place":{
+        "Area":"HSR",
+        "City":"Bengaluru",
+        "pin":"561008"
+    }
+}

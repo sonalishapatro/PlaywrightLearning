@@ -1,0 +1,24 @@
+Dropdown val for state Select StateAndhra PradeshArunachal PradeshAssamBiharChhattisgarhGoaGujaratHaryanaHimachal PradeshJammu and KashmirJharkhandKarnatakaKeralaMadhya PradeshMaharashtraManipurMeghalayaMizoramNagalandOdishaPunjabRajasthanSikkimTamil NaduTelanganaTripuraUttarakhandUttar PradeshWest BengalAndaman and Nicobar IslandsChandigarhDadra and Nagar HaveliDaman and DiuDelhiLakshadweepPuducherry
+option value is  Select State
+option value is  Andhra Pradesh
+option value is  Arunachal Pradesh
+option value is  Assam
+option value is  Bihar
+option value is  Chhattisgarh
+option value is  Goa
+option value is  Gujarat
+option value is  Haryana
+option value is  Himachal Pradesh
+option value is  Jammu and Kashmir
+option value is  Jharkhand
+option value is  Karnataka
+option value is  Kerala
+option value is  Madhya Pradesh
+option value is  Maharashtra
+option value is  Manipur
+option value is  Meghalaya
+option value is  Mizoram
+option value is  Nagaland
+option value is  Odisha
+option value is  Punjab
+option value is  Rajasthan

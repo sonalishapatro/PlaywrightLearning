@@ -1,0 +1,9 @@
+For First time install allure report using this - npm install -D allure-playwright 
+After successfull install will get it under dev dependencies like this - "allure-playwright": "^3.3.2" .
+Then Everytime we want to generate allure report need to follow these steps -
+   npx playwright test --reporter="allure-playwright" or configure the report directly under reporter section in playwright config file : (reporter: [['html'],['allure-playwright']])
+   For generating and opening report -
+      npx allure generate ./allure-results -o ./allure-report --clean
+      npx allure open ./allure-report
+
+    
